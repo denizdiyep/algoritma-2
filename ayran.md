@@ -1,10 +1,10 @@
-bir tane kase al
-kase aldıktan sonra buzdolabına git
-buzdolabını aç
-yoğrutu al
-buzdolabını kapa
-kasenin içine yoğurdu koy
-kasenin içine su ekle
-tuz ekle (isteğe bağlı)
-ayranı bardağa koy
-afiyet olsun ayranınız hazır
+1,bir tane kase al
+2,kase aldıktan sonra buzdolabına git
+3,buzdolabını aç
+4,yoğrutu al
+5,buzdolabını kapa
+6,kasenin içine yoğurdu koy
+7,kasenin içine su ekle
+8,tuz ekle (isteğe bağlı)
+9,ayranı bardağa koy
+10,afiyet olsun ayranınız hazır
